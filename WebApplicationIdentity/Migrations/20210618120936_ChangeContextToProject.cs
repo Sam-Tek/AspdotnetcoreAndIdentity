@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace WebApplicationIdentity.Migrations
 {
-    public partial class EditNameDbContext : Migration
+    public partial class ChangeContextToProject : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
