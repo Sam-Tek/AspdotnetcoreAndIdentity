@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace WebApplicationIdentity.Data.Migrations
+namespace WebApplicationIdentity.Migrations
 {
-    public partial class Int : Migration
+    public partial class EditNameDbContext2 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
